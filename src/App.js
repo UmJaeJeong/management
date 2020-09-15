@@ -30,6 +30,7 @@ import './App.css';
 //계층적으로 분류해서 입력(분리) (입력데이터가 많을 경우)
 class App extends Component{
     render(){
+        //ok
         return(
             <div>
                 {
